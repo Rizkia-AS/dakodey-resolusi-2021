@@ -1,3 +1,4 @@
 resolusi semester pertama 2021
 -menguasai ui/ux
 -menguasai front end dev
+-membuat minimal dua project dalam seminggu
